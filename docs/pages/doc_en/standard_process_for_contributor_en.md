@@ -58,6 +58,27 @@ After start the project you can start development. Please submit a pull request 
 
 If a bug is found, submit a pull request according to the GitHub standard processes, which is evaluated by the Ontology Technical Committee and submitted to the Ontology Council. After that, an incentive is given based on the evaluation result.
 
+### Rewards
+
+Rewards for qualified contributions, cf. standard process for community contributions, will be based on case-by-case evaluation conducted by the Ontology technical committee and approved by the Ontology council. During the approval process the Ontology team will do an estimate of the reward for a given project. The actual reward might vary and be less or more from the estimated reward.
+
+##### How we measure the rewards
+
+Our first approach will be based on case-by-case evaluation, hence as the community grow we will gain experience and receive feedback, and be able to build a comprehensive framework. In general, when assessing the rewards we will look at two factors:
+- Effort
+  - Amount of people/teams involved and their technical expertise
+  - The total amount of manhours
+  - Project duration
+  - Involvement of community/Ontology technical committee
+- The projects degree of difficulty
+  - Technologies
+  - Design and architecture
+  - Requirements
+  - Scope
+- Overall risk severity
+  - Impact
+  - Likelihood
+
 ### Technical Committee
 
 We welcome community talent to join the Ontology Technical Community. If you are interested, please apply in the [developer community on Discord](https://discord.gg/4TQujHj).
