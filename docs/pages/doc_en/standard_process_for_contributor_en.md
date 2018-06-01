@@ -65,11 +65,11 @@ If a bug is found, submit a pull request according to the GitHub standard proces
 
 ### Compensation
 
-Compensation for qualified contributions, cf. standard process for community contributions, will be based on case-by-case evaluation conducted by the Ontology technical committee and approved by the Ontology council. Compensation is distributed upon project completing.
+Compensation for qualified contributions, cf. standard process for community contributions, will be based on case-by-case evaluation conducted by the Ontology technical committee and approved by the Ontology council. Compensation is distributed upon project completion and evaluation.
 
 ##### How we measure the rewards
 
-Our first approach will be based on case-by-case evaluation, hence as the community grow we will gain experience and receive feedback, and be able to build a comprehensive framework. In general, when assessing the rewards we will look at three factors:
+Our first approach will be based on case-by-case evaluation, hence as the community grow we will gain experience and be able to build a comprehensive framework. In general, when assessing the compensation we will look at three factors:
 
 - Effort
   - Amount of people/teams involved and their technical expertise
@@ -87,7 +87,7 @@ Our first approach will be based on case-by-case evaluation, hence as the commun
 
 ### Technical Committee
 
-We welcome community talent to join the Ontology Technical Community. If you are interested, please apply in the [developer community on Discord](https://discord.gg/4TQujHj).
+We welcome community talent to join the Ontology technical community. If you are interested, please apply in the [developer community on Discord](https://discord.gg/4TQujHj).
 
 ### Developer community organizational cooperation
 
