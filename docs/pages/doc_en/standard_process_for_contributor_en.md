@@ -9,7 +9,7 @@ folder: doc_en
 
 English / [中文](./standard_process_for_contributor_zh.html)
 
-<h1 align="center">Standard process for community contributions</h1>
+<h1 align="center">Guidelines for technical community contributions</h1>
 
 ## Introduction
 
@@ -44,7 +44,9 @@ Generally, we divide development ideas into three categories
 
 Each category has its own subcategories and scope. OEPs are related to our foundational technology such as network architecture. OEPs are considered to have a large scope and a high level of complexity. Code contributions include projects which aims to build tools for the Ontology ecosystem and its users. The dApps category represent apps developed on the distributed network e.g. wallet or game.
 
-### Individual or group technical contributions
+### Standard process for community contributions
+
+Individual or group technical contributions
 
 ##### 1. Proposals
 
