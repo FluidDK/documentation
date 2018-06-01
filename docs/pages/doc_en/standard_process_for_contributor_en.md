@@ -21,7 +21,7 @@ Please note that these guidelines focuses on technical contributions e.g. develo
 
 From Ontology side we wish to build a highly engaged quality community and believe that this is best achieved by teamwork. We encourage the community to form independent groups so that we, Ontology, can engage on a strategic level for support and compensation. It’s important for us that the community takes responsibility for their own development and mmanagement.
 
-**_We believe that projects are best executed in teams and encourage contributors to form independent groups_**
+<h4 align="center">We believe that projects are best executed in teams and encourage contributors to form independent groups</h4>
 
 How you chose to structure groups or function as an individual contributors is entirely up to yourself. However, for groups, we would like you to identify a single point of contact so that we can engage with someone who's carrying out the interest of the group as a whole.
 
