@@ -11,6 +11,19 @@ English / [中文](./standard_process_for_contributor_zh.html)
 
 <h1 align="center">Standard process for community contributions</h1>
 
+#### Introduction
+
+Dear contributor(s)!
+We are excited to see the enthusiasm around our project and appreciate your participation in the community. This is a guide to help you understand how to make technical contributions to the Ontology community.
+
+Please note that these guidelines focuses on technical contributions e.g. developing dApps or SDKs. Guidelines for facilitating events, community management and translation are not to be found in this.
+
+From Ontology side we wish to build a highly engaged quality community and believe that this is best achieved by teamwork. We encourage the community to form independent groups so that we, Ontology, can engage on a strategic level for support and rewards. It’s important for us that the community takes responsibility for their own development and help us distribute the compensation.
+
+**We believe that projects are best executed in teams and encourage contributors to form independent groups**
+
+How you chose to structure groups or function as an individual contributors is entirely up to yourself. However, we would like you to identify a single point of contact so that we can engage with someone who’s carrying out the interest of the group as a whole.
+
 #### (1) Personal Developer or Group Technical contributions
 
 ##### 1. Proposals
