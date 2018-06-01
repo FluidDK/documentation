@@ -14,17 +14,16 @@ English / [中文](./standard_process_for_contributor_zh.html)
 ## Introduction
 
 Dear contributor(s)!
-We are excited to see the enthusiasm around our project and appreciate your participation in the community. This is a guide to help you understand how to make technical contributions to the Ontology community.
+
+We are excited to see the enthusiasm around our project and appreciate your participation in the community. This is a guide to help you understand how to make technical contributions for Ontology.
 
 Please note that these guidelines focuses on technical contributions e.g. developing dApps or SDKs. Guidelines for facilitating events, community management and translation are not to be found in this.
 
-From Ontology side we wish to build a highly engaged quality community and believe that this is best achieved by teamwork. We encourage the community to form independent groups so that we, Ontology, can engage on a strategic level for support and rewards. It’s important for us that the community takes responsibility for their own development and help us distribute the compensation.
-
-<align="center">Guidelines for technical community contributions>
+From Ontology side we wish to build a highly engaged quality community and believe that this is best achieved by teamwork. We encourage the community to form independent groups so that we, Ontology, can engage on a strategic level for support and compensation. It’s important for us that the community takes responsibility for their own development and mmanagement.
 
 **_We believe that projects are best executed in teams and encourage contributors to form independent groups_**
 
-How you chose to structure groups or function as an individual contributors is entirely up to yourself. However, we would like you to identify a single point of contact so that we can engage with someone who’s carrying out the interest of the group as a whole.
+How you chose to structure groups or function as an individual contributors is entirely up to yourself. However, for groups, we would like you to identify a single point of contact so that we can engage with someone who's carrying out the interest of the group as a whole.
 
 ## Technical contributions
 
@@ -52,25 +51,26 @@ Individual or group technical contributions
 
 ##### 1. OEP
 
-Login to GitHub [OEPs](https://github.com/ontio/OEPs) to view existing proposals and make new proposals. New proposals must be prototyped. The Ontology technical committee evaluates proposals and their prototype results, then submits projects to the Ontology Council. Pull requests are also welcome for existing proposals with no code implementation. The Ontology Technical Committee evaluates whether to accept the project based on the development application and sends it to the Ontology Council. The Ontology Council will consider giving appropriate incentives if the proposal is a large contribution to Ontology or will have a large impact.
+Login to GitHub [OEPs](https://github.com/ontio/OEPs) to view existing proposals and make new proposals. New proposals must be prototyped. The Ontology technical committee evaluates proposals and their prototype results, then submits projects to the Ontology Council. Pull requests are also welcome for existing proposals with no code implementation. The Ontology Technical Committee evaluates whether to accept the project based on the development application and sends it to the Ontology Council. The Ontology Council will consider giving appropriate compensation if the proposal is a large contribution to Ontology or will have a large impact.
 
 ##### 2. Code contribution
 
-After start the project you can start development. Please submit a pull request according to the [GitHub standard processes](https://help.github.com/). The Ontology Technical Committee will make an assessment and submit the report to the Ontology Council. It will then provide incentives based on the results of the assessment.
+After start the project you can start development. Please submit a pull request according to the [GitHub standard processes](https://help.github.com/). The Ontology Technical Committee will make an assessment and submit the report to the Ontology Council. It will then provide compensation based on the results of the assessment.
 
-If a bug is found, submit a pull request according to the GitHub standard processes, which is evaluated by the Ontology Technical Committee and submitted to the Ontology Council. After that, an incentive is given based on the evaluation result.
+If a bug is found, submit a pull request according to the GitHub standard processes, which is evaluated by the Ontology Technical Committee and submitted to the Ontology Council. After that, a compensation is given based on the evaluation result.
 
 ##### 3. dApp
 
 
 
-### Rewards
+### Compensation
 
-Rewards for qualified contributions, cf. standard process for community contributions, will be based on case-by-case evaluation conducted by the Ontology technical committee and approved by the Ontology council. During the approval process the Ontology team will do an estimate of the reward for a given project. The actual reward might vary and be less or more from the estimated reward.
+Compensation for qualified contributions, cf. standard process for community contributions, will be based on case-by-case evaluation conducted by the Ontology technical committee and approved by the Ontology council. Compensation is distributed upon project completing.
 
 ##### How we measure the rewards
 
-Our first approach will be based on case-by-case evaluation, hence as the community grow we will gain experience and receive feedback, and be able to build a comprehensive framework. In general, when assessing the rewards we will look at two factors:
+Our first approach will be based on case-by-case evaluation, hence as the community grow we will gain experience and receive feedback, and be able to build a comprehensive framework. In general, when assessing the rewards we will look at three factors:
+
 - Effort
   - Amount of people/teams involved and their technical expertise
   - The total amount of manhours
