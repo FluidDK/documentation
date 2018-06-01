@@ -11,7 +11,7 @@ English / [中文](./standard_process_for_contributor_zh.html)
 
 <h1 align="center">Standard process for community contributions</h1>
 
-#### Introduction
+## Introduction
 
 Dear contributor(s)!
 We are excited to see the enthusiasm around our project and appreciate your participation in the community. This is a guide to help you understand how to make technical contributions to the Ontology community.
@@ -24,7 +24,27 @@ From Ontology side we wish to build a highly engaged quality community and belie
 
 How you chose to structure groups or function as an individual contributors is entirely up to yourself. However, we would like you to identify a single point of contact so that we can engage with someone who’s carrying out the interest of the group as a whole.
 
-#### (1) Personal Developer or Group Technical contributions
+## Technical contributions
+
+Ideas comes from various sources and in many shapes and sizes. We encourage contributors to bring their own ideas to the table, but also get inspired by other ideas from the community.
+To get an overview of potential and ongoing projects, we are working on an index. This will be a space built and maintained by the community – dedicated to index Ontology activities so that it is more digestible for contributors and investors. For community contributors this index will include a section of projects and ideas, and you can:
+
+- List your own ideas
+-	See other community members ideas
+-	See ideas from the Ontology technical committee
+
+Generally, we divide development ideas into three categories
+
+- Ontology enhancement proposal (OEP)
+  - E.g. major proposal to design, network, architecture, protocol or module
+- Code contribution
+  - E.g. SDK or bug/fixing
+- dApps
+  - E.g. wallet
+
+Each category has its own subcategories and scope. OEPs are related to our foundational technology such as network architecture. OEPs are considered to have a large scope and a high level of complexity. Code contributions include projects which aims to build tools for the Ontology ecosystem and its users. The dApps category represent apps developed on the distributed network e.g. wallet or game.
+
+### Individual or group technical contributions
 
 ##### 1. Proposals
 
@@ -38,11 +58,11 @@ After start the project you can start development. Please submit a pull request 
 
 If a bug is found, submit a pull request according to the GitHub standard processes, which is evaluated by the Ontology Technical Committee and submitted to the Ontology Council. After that, an incentive is given based on the evaluation result.
 
-##### 4. Technical Committee
+### Technical Committee
 
 We welcome community talent to join the Ontology Technical Community. If you are interested, please apply in the [developer community on Discord](https://discord.gg/4TQujHj).
 
-#### (2) Developer community organizational cooperation
+### Developer community organizational cooperation
 
 The Ontology Council welcomes organizations to discuss [cooperation](https://info.ont.io/cooperation/en) please indicate that you are requesting technical community cooperation. The Ontology Council will carry out reviews based on the proposal, code contributions, and weekly reviews (JIRA will be used for management). Incentives will be distributed to partner institutions on a regular basis. Particularly excellent organizations can be considered for investment from Ontology.
 
