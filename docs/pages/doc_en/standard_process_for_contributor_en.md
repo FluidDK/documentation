@@ -15,11 +15,11 @@ English / [中文](./standard_process_for_contributor_zh.html)
 
 Dear contributor(s)!
 
-We are excited to see the enthusiasm around our project and appreciate your participation in the community. This is a guide to help you understand how to make technical contributions for Ontology.
+We are excited to see the enthusiasm around Ontology and appreciate your participation in the community. This is a guide to help you understand how to make technical contributions for Ontology.
 
-Please note that these guidelines focuses on technical contributions e.g. developing dApps or SDKs. Guidelines for facilitating events, community management and translation are not to be found in this.
+Please note that these guidelines focuses on technical contributions e.g. code contribution and dApps. Guidelines for facilitating events, community management and translation are not to be found in this.
 
-From Ontology side we wish to build a highly engaged quality community and believe that this is best achieved by teamwork. We encourage the community to form independent groups so that we, Ontology, can engage on a strategic level for support and compensation. It’s important for us that the community takes responsibility for their own development and mmanagement.
+From Ontology side we wish to build a highly engaged quality community and believe that this is best achieved by teamwork. We encourage the community to form independent groups so that we, Ontology core team, can engage on a strategic level for support and compensation. It’s important for us that the community takes responsibility for their own development and management.
 
 <h4 align="center">We believe that projects are best executed in teams and encourage contributors to form independent groups</h4>
 
@@ -51,17 +51,17 @@ Individual or group technical contributions
 
 ##### 1. OEP
 
-Login to GitHub [OEPs](https://github.com/ontio/OEPs) to view existing proposals and make new proposals. New proposals must be prototyped. The Ontology technical committee evaluates proposals and their prototype results, then submits projects to the Ontology Council. Pull requests are also welcome for existing proposals with no code implementation. The Ontology Technical Committee evaluates whether to accept the project based on the development application and sends it to the Ontology Council. The Ontology Council will consider giving appropriate compensation if the proposal is a large contribution to Ontology or will have a large impact.
+Login to GitHub [OEPs](https://github.com/ontio/OEPs) to view existing proposals and make new proposals. New proposals must be prototyped. The Ontology technical committee evaluates proposals and their prototype results, then submits projects to the Ontology Council. Pull requests are also welcome for existing proposals with no code implementation. The Ontology technical committee evaluates whether to accept the project based on the development application and sends it to the Ontology council. The Ontology council will consider giving appropriate compensation if the proposal is a large contribution to Ontology or will have a large impact.
 
 ##### 2. Code contribution
 
-After start the project you can start development. Please submit a pull request according to the [GitHub standard processes](https://help.github.com/). The Ontology Technical Committee will make an assessment and submit the report to the Ontology Council. It will then provide compensation based on the results of the assessment.
+After start the project you can start development. Please submit a pull request according to the [GitHub standard processes](https://help.github.com/). The Ontology Technical committee will make an assessment and submit the report to the Ontology council. It will then provide compensation based on the results of the assessment.
 
-If a bug is found, submit a pull request according to the GitHub standard processes, which is evaluated by the Ontology Technical Committee and submitted to the Ontology Council. After that, a compensation is given based on the evaluation result.
+If a bug is found, submit a pull request according to the GitHub standard processes, which is evaluated by the Ontology technical committee and submitted to the Ontology council. After that, a compensation is given based on the evaluation result.
 
 ##### 3. dApp
 
-
+Ontology welcome the community to build dApps on the network. If you have inquiries regarding support, please refer to our [Organizational cooperation](https://help.github.com/) portal. We asses dApps based on team, product, scenario and investment.
 
 ### Compensation
 
