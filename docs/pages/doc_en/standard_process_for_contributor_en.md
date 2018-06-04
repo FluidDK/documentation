@@ -61,7 +61,7 @@ If a bug is found, submit a pull request according to the GitHub standard proces
 
 ##### 3. dApp
 
-Ontology welcome the community to build dApps on the network. If you have inquiries regarding support, please refer to our [Organizational cooperation](https://help.github.com/) portal. We asses dApps based on team, product, scenario and investment.
+Ontology welcome the community to build dApps on the network. If you have inquiries regarding support, please refer to our [Organizational cooperation](https://info.ont.io/cooperation/en) portal. We asses dApps based on team, product, scenario and investment.
 
 ### Compensation
 
