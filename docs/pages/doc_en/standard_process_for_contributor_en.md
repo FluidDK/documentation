@@ -63,8 +63,7 @@ If a bug is found, submit a pull request according to the GitHub standard proces
 
 Ontology welcome the community to build dApps in the ecosystem. If you have general inquiries regarding support, please refer to our [Organizational cooperation](https://info.ont.io/cooperation/en) portal.
 
-Ontology has its own ecosystem accelerator program, which aims to incubate new dApps. The program invites technology and product experts across fields to collaborate in entrepreneurship and build new distributed business applications based on Ontology’s next-generation public chain infrastructure to build an open-source, open-minded, and collaborative distributed trust ecosystem. The Ontology Olympus Accelerator program will provide complete technical, marketing, funding, talent, and legal compliance support. For more information:
-[Ontology Olympus Accelerator](https://medium.com/ontologynetwork/ontology-launches-ecosystem-accelerator-program-ontology-olympus-accelerator-ooa-a2ad9229de83)
+Ontology has its own ecosystem accelerator program, which aims to incubate new dApps. The program invites technology and product experts across fields to collaborate in entrepreneurship and build new distributed business applications based on Ontology’s next-generation public chain infrastructure to build an open-source, open-minded, and collaborative distributed trust ecosystem. The Ontology Olympus Accelerator program will provide complete technical, marketing, funding, talent, and legal compliance support. For more information please visit [Ontology Olympus Accelerator](https://medium.com/ontologynetwork/ontology-launches-ecosystem-accelerator-program-ontology-olympus-accelerator-ooa-a2ad9229de83)
 
 ### Compensation
 
