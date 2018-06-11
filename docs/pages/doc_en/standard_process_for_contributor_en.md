@@ -15,7 +15,7 @@ English / [中文](./standard_process_for_contributor_zh.html)
 
 Dear contributor(s)!
 
-We are excited to see the enthusiasm around Ontology and appreciate your participation in the community. This is a guide to help you understand how to make technical contributions for Ontology.
+We are excited to see the enthusiasm around Ontology and appreciate your participation in the community. This is a guide to help you understand how to make technical contributions to Ontology.
 
 Please note that these guidelines focuses on technical contributions e.g. code contribution and dApps. Guidelines for facilitating events, community management and translation are not to be found in this.
 
