@@ -32,7 +32,7 @@ To get an overview of potential and ongoing projects, we are working on an index
 
 - List your own ideas
 -	See other community member ideas
--	See ideas from the Ontology technical committee
+-	See ideas from the Ontology Technical Committee
 
 Generally, we divide development ideas into three categories
 
@@ -51,13 +51,13 @@ Individual or group technical contributions
 
 ##### 1. OEP
 
-Login to GitHub [OEPs](https://github.com/ontio/OEPs) to view existing proposals and make new proposals. New proposals must be prototyped. The Ontology technical committee evaluates proposals and their prototype results, then submits projects to the Ontology Council. Pull requests are also welcome for existing proposals with no code implementation. The Ontology technical committee evaluates whether to accept the project based on the development application and sends it to the Ontology Council. The Ontology Council will consider giving appropriate compensation if the proposal is a large contribution to Ontology or will have a large impact.
+Login to GitHub [OEPs](https://github.com/ontio/OEPs) to view existing proposals and make new proposals. New proposals must be prototyped. The Ontology Technical Committee evaluates proposals and their prototype results, then submits projects to the Ontology Council. Pull requests are also welcome for existing proposals with no code implementation. The Ontology Technical Committee evaluates whether to accept the project based on the development application and sends it to the Ontology Council. The Ontology Council will consider giving appropriate compensation if the proposal is a large contribution to Ontology or will have a large impact.
 
 ##### 2. Code contribution
 
-After starting the project you can start development. Please submit a pull request according to the [GitHub standard processes](https://help.github.com/). The Ontology Technical committee will make an assessment and submit the report to the Ontology Council. It will then provide compensation based on the results of the assessment.
+After starting the project you can start development. Please submit a pull request according to the [GitHub standard processes](https://help.github.com/). The Ontology Technical Committee will make an assessment and submit the report to the Ontology Council. It will then provide compensation based on the results of the assessment.
 
-If a bug is found, submit a pull request according to the GitHub standard processes, which is evaluated by the Ontology technical committee and submitted to the Ontology Council. After that, compensation is given based on the evaluation result.
+If a bug is found, submit a pull request according to the GitHub standard processes, which is evaluated by the Ontology Technical Committee and submitted to the Ontology Council. After that, compensation is given based on the evaluation result.
 
 ##### 3. dApps
 
@@ -67,7 +67,7 @@ Ontology has its own ecosystem accelerator program, which aims to incubate new d
 
 ### Compensation
 
-Compensation for qualified contributions are made according to the standard process for community contributions. They will be based on case-by-case evaluation conducted by the Ontology technical committee and approved by the Ontology Council. Compensation is distributed upon project completion and evaluation.
+Compensation for qualified contributions are made according to the standard process for community contributions. They will be based on case-by-case evaluation conducted by the Ontology Technical Committee and approved by the Ontology Council. Compensation is distributed upon project completion and evaluation.
 
 ##### How we measure compensation
 
@@ -77,7 +77,7 @@ Our first approach will be based on case-by-case evaluation, hence as the commun
   - Number of people/teams involved and their technical expertise
   - Total amount of manhours
   - Project duration
-  - Involvement of community/Ontology technical committee
+  - Involvement of community/Ontology Technical Committee
 - Projects degree of difficulty
   - Technology
   - Design and architecture
@@ -89,7 +89,7 @@ Our first approach will be based on case-by-case evaluation, hence as the commun
 
 ### Technical Committee
 
-We welcome community talent to join the Ontology technical community. If you are interested, please apply in the [developer community on Discord](https://discord.gg/4TQujHj).
+We welcome community talent to join the Ontology Technical Community. If you are interested, please apply in the [developer community on Discord](https://discord.gg/4TQujHj).
 
 ### Developer community organizational cooperation
 
